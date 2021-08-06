@@ -1,0 +1,20 @@
+
+body {
+	//
+}
+
+div.pink-container {
+	text-align: center;
+	max-width: 1200px;
+	margin: 150px auto;
+}
+
+div.pink-bg {
+	display: inline-block;
+	width: 360px;
+	height: 240px;
+	margin: 25px 15px;
+	border: 2px solid #ddd;
+}
+
+
